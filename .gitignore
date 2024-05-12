@@ -90,3 +90,8 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
